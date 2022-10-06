@@ -11,3 +11,5 @@ escalonada, para que pueda interactuar con diferentes commits y visualizar
 el histórico de sus ficheros.
 Debe entregar un documento en el que se muestre su usuario en GitHub
 para poder comprobar el contenido que ha subido. """
+
+print("HOLA GIH HOLA GITHUB")
